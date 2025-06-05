@@ -32,4 +32,4 @@ License This project is licensed under the MIT License - see the LICENSE file fo
 
 Future Work
 
-Optimize performance for low-power devices. Enhance tracking robustness with advanced algorithms. Add critical event detection (e.g., accidents)
+Optimize performance for low-power devices. Enhance tracking robustness with advanced algorithms. Add critical event detection (e.g., accidents)# Project_group5_computer_vision
